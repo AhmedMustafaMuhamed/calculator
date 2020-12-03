@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/AhmedMustafaMuhamed/8logic-gates.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AhmedMustafaMuhamed/calculator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Programs\Inistalled pro\IntelliJ IDEA Community Edition 2019.2\IdeaProjects" />
