@@ -14,4 +14,7 @@
     </option>
     <option name="cloneParentDir" value="E:\Programs\Inistalled pro\IntelliJ IDEA Community Edition 2019.2\IdeaProjects" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  </component>
 </application>
